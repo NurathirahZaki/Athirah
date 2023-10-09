@@ -1,4 +1,4 @@
-# Athirah
+# Nurathirah Muhamad Zaki
 
 ## About Me
 Based in Johor, Malaysia. 
