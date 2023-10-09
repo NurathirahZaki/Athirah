@@ -14,6 +14,9 @@ Still learning to get more knowledge and interested in Bioinfomatics courses.
 - MySQL
 
 ## Education
+- **Diploma in Information Technology (Digital Technology)**  
+  *Polytechnic BaLik Pulau, Pulau Pinang Malaysia, 2018- 2021*
+
 - **Bachelor of Computer Science (Bioinfomatics)**  
   *University Technology Malaysia , Skudai Johor Baharu Malaysia, 2021-current*
 
