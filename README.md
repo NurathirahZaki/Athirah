@@ -2,11 +2,14 @@
 
 ## About Me
 Based in Johor, Malaysia. 
-I am  passion for creating efficient and user-friendly applications and website, 
+I am a bioinformatics student that has passion for creating efficient and user-friendly applications and website, 
 I aim to contribute to innovative projects that make a positive impact.
 Still learning to get more knowledge and interested in Bioinfomatics courses.
 
 ## Skills
+
+- C++
+- HTML
 - Java
 - Python
 - JavaScript
