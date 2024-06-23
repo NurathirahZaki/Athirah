@@ -2,9 +2,9 @@
 
 ## About Me
 Based in Johor, Malaysia. 
-I am a bioinformatics student that has passion for creating efficient and user-friendly applications and website, 
+I am a bioinformatics student who has a passion for creating efficient and user-friendly applications and websites, 
 I aim to contribute to innovative projects that make a positive impact.
-Still learning to get more knowledge and interested in Bioinfomatics courses.
+I am still learning to gain knowledge and am interested in Bioinformatics courses.
 
 ## Skills
 
@@ -15,13 +15,15 @@ Still learning to get more knowledge and interested in Bioinfomatics courses.
 - JavaScript
 - PHP
 - MySQL
+- MongoDB
+- Streamlit
 
 ## Education
 - **Diploma in Information Technology (Digital Technology)**  
   *Polytechnic BaLik Pulau, Pulau Pinang Malaysia, 2018- 2021*
 
-- **Bachelor of Computer Science (Bioinfomatics)**  
-  *University Technology Malaysia , Skudai Johor Baharu Malaysia, 2021-current*
+- **Bachelor of Computer Science (Bioinformatics)**  
+  *University Technology Malaysia, Skudai Johor Baharu Malaysia, 2021-current*
 
 
 ## Contact Information
